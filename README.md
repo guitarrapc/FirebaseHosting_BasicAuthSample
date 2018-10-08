@@ -1,1 +1,0 @@
-FirebaseHosting_BasicAuthSample
