@@ -1,5 +1,5 @@
-// Initialize Firebase
 // https://console.firebase.google.com/project/YOUR_PROJECT_NAME/settings/general/
+// Initialize Firebase
 var config = {
     apiKey: "YOUR_API_ID",
     authDomain: "test-auth-d37cd.firebaseapp.com",
