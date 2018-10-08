@@ -1,4 +1,4 @@
-## FirebaseHosting_BasicAuthSample
+## FirebaseHosting Cloud Functions Basic Auth Sample
 
 ## Getting started ✈️
 
