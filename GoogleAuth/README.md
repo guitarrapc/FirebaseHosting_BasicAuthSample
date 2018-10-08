@@ -1,4 +1,4 @@
-## FirebaseHosting_BasicAuthSample
+## FirebaseHosting Google Auth Sample
 
 ## Getting started ✈️
 
@@ -7,7 +7,7 @@
 1. Login to firebase project `firebase login`
 1. Initialize for your firebase project. `firebase init`
 1. Get api info from https://console.firebase.google.com/project/<PROJECT_NAME>/settings/general/ and input project info inside `public/js/config.js`.
-1. set your restricted domain by `AuthUI.provider.setCustomParameters` in side `public/js/basicAuth.js`
+1. set your restricted domain by `AuthUI.provider.setCustomParameters` in side `public/js/googleAuth.js`
 1. Deploy! `firebase deploy`
 
 ## How to modify 📝
